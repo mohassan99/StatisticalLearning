@@ -1,7 +1,6 @@
-# StatisticalLearning
-#### Machine Learning in R  
+# Machine Learning in R  
   
-## CS 598: Practical Statistical Learning Syllabus  
+## Syllabus  
 
 ### Course Description  
 This course introduces modern techniques for statistical analysis of complex and massive data. Examples of these are model selection for regression/classification, nonparametric models including splines and kernel models, regularization, dimension reduction, and clustering analysis. Applications are discussed as well as computation and theoretical foundations.  
